@@ -1,0 +1,11 @@
+{
+  "name": "cdc-capturador",
+  "version": "1.0.0",
+  "main": "capturador.js",
+  "scripts": {
+    "start": "node capturador.js"
+  },
+  "dependencies": {
+    "socket.io-client": "^4.8.3"
+  }
+}
